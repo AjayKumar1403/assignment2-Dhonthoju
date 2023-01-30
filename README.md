@@ -7,3 +7,7 @@ I like **Cricket** because from childhood I have been watching the sport on TV a
 1. Virat Kohli
 2. Mahendra Singh Dhoni
 3. Rohith Sharma
+
+* David warner
+* Kane williamson
+* Surya Kumar Yadav
