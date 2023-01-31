@@ -10,3 +10,10 @@ I am from Hyderabad. I was a software engineer worked across 4 different compani
 | United States of America |   Great infrastructure with great monuments and structures    |   30 |
 | Srilanka | If you love Nature then Srilanka will blow your mind with very good scenaries      |    7 |
 | Switzerland | A beautiful country with lot of mountains and greenary      |    9 |
+
+***
+> People often say that motivation doesn't last. Well, neither does bathing that's why we recommend it daily.  — *Zig Ziglar*
+
+> Luck is a dividend of sweat. The more you sweat, the luckier you get.  — *Ray Kroc*
+
+> If hard work is the key to success, most people would rather pick the lock.  — *Claude McDonald*
