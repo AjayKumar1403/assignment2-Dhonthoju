@@ -12,6 +12,7 @@ I am from Hyderabad. I was a software engineer worked across 4 different compani
 | Switzerland | A beautiful country with lot of mountains and greenary      |    9 |
 
 ***
+# Quotes
 > People often say that motivation doesn't last. Well, neither does bathing that's why we recommend it daily.  — *Zig Ziglar*
 
 > Luck is a dividend of sweat. The more you sweat, the luckier you get.  — *Ray Kroc*
