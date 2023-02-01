@@ -18,3 +18,35 @@ I am from Hyderabad. I was a software engineer worked across 4 different compani
 > Luck is a dividend of sweat. The more you sweat, the luckier you get.  — *Ray Kroc*
 
 > If hard work is the key to success, most people would rather pick the lock.  — *Claude McDonald*
+
+***
+# Code Fencing
+
+> How to include jQuery in a WordPress theme?
+
+> Include jQuery in WordPress Theme
+
+> I am pretty new to WordPress and I am figuring out how to include jQuery into a theme.
+I create the following function into functions.php theme:
+
+[Link to the question on wordpress in stackoverflow](https://stackoverflow.com/questions/46595134/retrieving-and-display-images-by-tag-in-wordpress)
+
+```php
+function load_java_scripts() {
+    // Load FlexSlider JavaScript that handle the SlideShow:
+    wp_enqueue_script('jQuery-js', 'http://code.jquery.com/jquery.js', array(), '1.0', true);
+}
+add_action('wp_enqueue_scripts', 'load_java_scripts');
+```
+> Answer to the above question in CSS - Tricks
+
+```php
+if (!is_admin()) add_action("wp_enqueue_scripts", "my_jquery_enqueue", 11);
+function my_jquery_enqueue() {
+   wp_deregister_script('jquery');
+   wp_register_script('jquery', "http" . ($_SERVER['SERVER_PORT'] == 443 ? "s" : "") . "://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js", false, null);
+   wp_enqueue_script('jquery');
+}
+```
+[Answer to the question in CSS tricks :  Include jQuery in WordPress Theme](https://css-tricks.com/snippets/wordpress/include-jquery-in-wordpress-theme/)
+
